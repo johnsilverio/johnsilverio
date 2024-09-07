@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **John Silverio**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=437&lines=%F0%9F%91%8B+Hey+there!+I'm+John+Silverio)](https://git.io/typing-svg)
 
 ## 💻 About Me
 
