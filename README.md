@@ -1,8 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=F7F7F7&width=437&lines=%F0%9F%91%8B+Hey+there!+I'm+John+Silverio)](https://git.io/typing-svg)
+---
 ## 💻 About Me
 
 I'm a **Software Engineering Student** passionate about developing robust and scalable solutions across multiple platforms. I'm always eager to learn new technologies and build innovative solutions to solve real-world problems.
-
+---
 ### 👨‍💻 What I'm Working On:
 
 - 🔨 **Web Development:** Frontend & Backend technologies (HTML, CSS, JavaScript, Python, Django)
