@@ -10,6 +10,6 @@ I'm a **Software Engineer** passionate about developing robust and scalable solu
 - 🎓 **Engineering Studies:** Deep diving into software engineering concepts and modern practices.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,dotnet,java,spring,idea,html,css,js,nodejs,py,django,linux,neovim" />
+    <img src="https://skillicons.dev/icons?i=git,cs,dotnet,code,java,spring,idea,html,css,js,nodejs,py,django,linux,neovim" />
   </a>
 </p>
