@@ -4,7 +4,7 @@
 I'm a **Software Engineer** passionate about developing robust and scalable solutions across multiple platforms. I'm always eager to learn new technologies and build innovative solutions to solve real-world problems.
 ### 👨‍💻 What I'm Working On:
 
-- 🔨 **Web Development:** Frontend & Backend technologies (Vue.js and .NET)
+- 🔨 **Web Development:** Frontend & Backend technologies (React.js and .NET)
 - 📊 **Project Work:** Budgeting & ERP System
 - ⚙️ **Languages:** Java, C#, and Web technologies
 - 🎓 **Engineering Studies:** Deep diving into software engineering concepts and modern practices.
