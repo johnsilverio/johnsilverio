@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=F7F7F7&width=437&lines=%F0%9F%91%8B+hey+there!+i'm+John+Silverio)](https://git.io/typing-svg)
-## 💻 about Me
+## about Me
 
 software engineer and artisan programmer<br>
 i write code, delete code, and pretend it was refactoring...
