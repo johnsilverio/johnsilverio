@@ -21,6 +21,6 @@ type safety is not optional
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nest,cs,dotnet,postgres,git,docker,linux,neovim" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,django,postgres,git,docker,linux,neovim" />
   </a>
 </p>
