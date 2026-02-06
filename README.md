@@ -6,7 +6,7 @@ i write code, delete code, and pretend it was refactoring...
 
 ## What i'm working on
 
-- building web applications with react and .NET / NestJS
+- building web applications with React.js/Next.js and Django/Node.js
 - working on a budgeting & Erp system
 - learning by doing (and occasionally breaking and fixing things)
 
