@@ -7,7 +7,7 @@ i write code, delete code, and pretend it was refactoring...
 ## What i'm working on
 
 - building web applications with Angular and .NET
-- working on a budgeting & Erp system
+- working on a budgeting & Erp and GEO system
 - learning by doing (and occasionally breaking and fixing things)
 
 ## Approach
