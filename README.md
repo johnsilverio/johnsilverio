@@ -6,7 +6,7 @@ i write code, delete code, and pretend it was refactoring...
 
 ## What i'm working on
 
-- building web applications with React.js/Next.js and Django/Node.js
+- building web applications with Angular and .NET
 - working on a budgeting & Erp system
 - learning by doing (and occasionally breaking and fixing things)
 
@@ -21,6 +21,6 @@ type safety is not optional
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,django,postgres,git,docker,linux,neovim" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,ts,python,postgres,git,docker,linux,rider" />
   </a>
 </p>
