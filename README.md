@@ -8,7 +8,7 @@ the terminal was home long before it paid the bills
 - web platforms in Angular and Django, both internal and commercial
 - an internal ERP (budgeting, CRM, documents)
 - a commercial platform for NDVI-based vegetation analysis, built on PostGIS and GeoDjango
-- in-house tooling that orchestrates AI agents to automate real business processes
+- in-house tooling that orchestrates AI agents (OpenAI, Anthropic) to automate workflows and support operational decision-making
 
 ### On the side
 building developer tools and systems software, lately in Rust<br>
