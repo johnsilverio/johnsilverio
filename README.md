@@ -1,22 +1,23 @@
-#### About Me
-backend engineer specialized in Django and geospatial data<br>
-i build ERP and GEO systems where the hard part is the map, not the CRUD<br>
-the terminal has been my home long before it was my job
+#### About me
+backend engineer focused on Django and geospatial data<br>
+the hard part of what i build is the map, not the CRUD<br>
+raised on fundamentals, the machine before the framework<br>
+the terminal was home long before it paid the bills
 
 #### What i'm working on
-- web platforms with Angular and Django, both internal and commercial
+- web platforms in Angular and Django, both internal and commercial
 - an internal ERP (budgeting, CRM, documents)
-- a commercial platform for NDVI and vegetation analysis, powered by PostGIS and GeoDjango
-- internal tooling that orchestrates AI agents to automate real company processes
+- a commercial platform for NDVI-based vegetation analysis, built on PostGIS and GeoDjango
+- in-house tooling that orchestrates AI agents to automate real business processes
 
 #### On the side
-building developer tools and systems software, lately with Rust<br>
-the low-level stuff is what makes the high-level stuff make sense
+building developer tools and systems software, lately in Rust<br>
+time spent close to the metal is what makes the abstractions click
 
 #### How i work
-linux is home, not just a deploy target<br>
-i'd rather understand what runs under the abstraction than trust it blindly<br>
 simple, maintainable solutions over clever ones<br>
+the database earns its keep, not just storage<br>
+reading the source beats guessing<br>
 type safety is not optional
 
 #### Tech stack
