@@ -23,7 +23,7 @@ type safety is not optional
 ### Tech stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,postgres,angular,ts,git,docker,linux,neovim" />
+    <img src="https://skillicons.dev/icons?i=python,django,postgres,angular,ts,c,git,docker,linux,neovim" />
   </a>
 </p>
 
