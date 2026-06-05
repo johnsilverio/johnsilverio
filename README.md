@@ -13,7 +13,7 @@ the terminal has been my home long before it was my job
 building developer tools and systems software, lately with Rust<br>
 the low-level stuff is what makes the high-level stuff make sense
 
-## How i work
+#### How i work
 linux is home, not just a deploy target<br>
 i'd rather understand what runs under the abstraction than trust it blindly<br>
 simple, maintainable solutions over clever ones<br>
